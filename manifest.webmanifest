@@ -1,0 +1,17 @@
+{
+  "name": "MIXWAVE",
+  "short_name": "MIXWAVE",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#090b12",
+  "theme_color": "#090b12",
+  "description": "Твоя музыкальная волна",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
